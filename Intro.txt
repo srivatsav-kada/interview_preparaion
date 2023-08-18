@@ -1,0 +1,4 @@
+
+In the days ahead, our focus is dedicated to honing our skills and strategies to secure positions within the most prestigious product-based companies. Our approach involves daily preparations that encompass a meticulous blend of learning, practicing, and sharing knowledge. The core of our efforts lies in a systematic routine that revolves around staying updated, refining our expertise, and showcasing our progress on various platforms, primarily through our GitHub repositories.
+
+Thus, we have established a rigorous daily routine that revolves around a structured study plan. Each day starts with an in-depth study of crucial subjects and concepts that are frequently tested during interviews. We delve into data structures, algorithms, system design principles, and problem-solving techniques. By dedicating focused time to these key areas, we aim to strengthen our foundational knowledge.
